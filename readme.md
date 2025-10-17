@@ -1,6 +1,9 @@
-## List of U.S. Higher Education Institution Positions Without Faculty Visa Sponsorship [updated on 10/17/2025]
+# Faculty job postings with no H-1B sponsorship
 
-*Disclaimer: This list contains position postings that include language such as "Applicants must be authorized to work for ANY employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time," or similar descriptions indicating that visa sponsorship is not available. It has not been verified with the corresponding HR departments and will not be. It is provided as-is with no guarantee of accuracy or completeness. Maintenance will be minimal to none. Formatting and commit message are assisted by ChatGPT/GitHub Copilot.*
+> **Scope:** This repo tracks faculty job ads that explicitly state **no employer visa sponsorship**; some may allow **current H-1B transfers**—see notes.
+
+> **Disclaimer.** This list compiles faculty job postings that explicitly state **no employer visa sponsorship** (e.g., “Applicants must be authorized to work for any U.S. employer; we are unable to sponsor an employment visa”). It is **informational only**, **not HR-verified**, and may be inaccurate, incomplete, or outdated. Terms can change without notice and may vary by department, rank, or visa type (e.g., transfer-only H-1B). **No legal advice.** Confirm details with the institution. Maintenance will be **minimal to none**. Formatting and commit messages may be assisted by ChatGPT/GitHub Copilot.
+
 
 
 ### Added on 10/17/2025
