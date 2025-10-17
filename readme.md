@@ -1,6 +1,6 @@
 ## List of U.S. Higher Education Institution Positions Without Faculty Visa Sponsorship [updated on 10/17/2025]
 
-*Disclaimer: This list contains position postings that include language such as "Applicants must be authorized to work for ANY employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time," or similar descriptions indicating that visa sponsorship is not available. It has not been verified with the corresponding HR departments and will not be. It is provided as-is with no guarantee of accuracy or completeness. Maintenance will be minimal to none. Formatting and commit message were assisted by ChatGPT/GitHub Copilot.*
+*Disclaimer: This list contains position postings that include language such as "Applicants must be authorized to work for ANY employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time," or similar descriptions indicating that visa sponsorship is not available. It has not been verified with the corresponding HR departments and will not be. It is provided as-is with no guarantee of accuracy or completeness. Maintenance will be minimal to none. Formatting and commit message are assisted by ChatGPT/GitHub Copilot.*
 
 
 ### Added on 10/17/2025
