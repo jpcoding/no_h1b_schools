@@ -4,6 +4,8 @@
 
 > **Disclaimer.** This list compiles faculty job postings that explicitly state **no employer visa sponsorship** (e.g., “Applicants must be authorized to work for any U.S. employer; we are unable to sponsor an employment visa”). It is **informational only**, **not HR-verified**, and may be inaccurate, incomplete, or outdated. Terms can change without notice and may vary by department, rank, or visa type (e.g., transfer-only H-1B). **No legal advice.** Confirm details with the institution. Maintenance will be **minimal to none**. Formatting and commit messages may be assisted by ChatGPT/GitHub Copilot.
 
+### Added on 11/4/2025
+- Lakeland University, [Assistant Professor of Computer Science](https://lakeland.applicantpro.com/jobs/3898321).
 
 ### Added on 10/21/2025 
 - Ramapo College of New Jersey, [Assistant/Associate Professor of Data Science/Math (Tenure Track - 10 months)](https://www.schooljobs.com/careers/ramapo/jobs/5116518/assistant-associate-professor-of-data-science-math-tenure-track-10-months?pagetype=jobOpportunitiesJobs)
